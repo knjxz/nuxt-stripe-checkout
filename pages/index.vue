@@ -3,7 +3,7 @@
     <div>
       <h1>Nuxt Stripe Checkout</h1>
       <br>
-      <button id="checkout-button" role="link">PAY</button>
+      <button id="checkout-button" role="link" class="btn btn-primary">PAGAR</button>
       <div id="error-message"></div>
       </div>
     </div>
